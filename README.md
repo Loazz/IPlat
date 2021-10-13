@@ -4,5 +4,5 @@ The game wont get more update.
 
 The Game : https://loaz.itch.io/iplat
 
-dont use my code without my permissions
+dont copy my game
 
