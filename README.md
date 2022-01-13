@@ -4,5 +4,3 @@ The game wont get more update.
 
 The Game : https://loaz.itch.io/iplat
 
-dont copy my game
-
