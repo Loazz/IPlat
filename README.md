@@ -1,6 +1,4 @@
-Hi!
-This is my first game IPlat this is a little platformer.
-The game wont get more update.
+My first game developed in Lua with LOVE2D.
 
-The Game : https://loaz.itch.io/iplat
+Download the game : https://loaz.itch.io/iplat
 
